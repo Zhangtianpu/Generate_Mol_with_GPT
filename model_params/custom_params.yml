@@ -1,0 +1,5 @@
+model_parameter:
+   emb_dim: 256
+   n_layers: 8
+   n_heads: 8
+   head_dim: 32
